@@ -123,14 +123,5 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ---
 
-## 📧 Contact
-👤 **Your Name**  
-📍 **Your Location**  
-📧 **your.email@example.com**  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/yourprofile)**  
-🔗 **[GitHub Repository](https://github.com/your-username/wearable-health-monitor)**  
-
----
-
 🌟 *If you find this project useful, don't forget to ⭐ the repository!*
 
